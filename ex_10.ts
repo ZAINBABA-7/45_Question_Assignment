@@ -1,5 +1,3 @@
-// Author: ChatGPT
-// Date: 2024-03-03
 // Program: Calculate Area of a Rectangle
 // This program calculates the area of a rectangle given its width and height.
 
